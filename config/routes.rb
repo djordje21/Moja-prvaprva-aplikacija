@@ -1,5 +1,8 @@
 Rails.application.routes.draw do
+<<<<<<< HEAD
   resources :e_portfolios
+=======
+>>>>>>> resource-generator
   resources :portfolios
   get 'pages/home'
   get 'pages/about'
